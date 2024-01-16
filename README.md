@@ -22,6 +22,8 @@ Clone the repository
 
 ```bash
 https://github.com/shaileshpendams/MLOPS
+
+930171731263.dkr.ecr.us-east-1.amazonaws.com/mlops
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
